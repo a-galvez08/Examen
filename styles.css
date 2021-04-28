@@ -1,0 +1,64 @@
+.logoGob {
+    width: 25%;
+    height: 100px;
+    background: url('material/logo-gobmx.svg');
+    background-size: cover;
+}
+
+.header-img {
+    width: 100%;
+    height: 220px;
+    background: url('material/header.png');
+    background-size: cover;
+}
+
+.text {
+    width: 600px;
+    margin-left: 10px;
+    text-align: left;
+    position: relative;
+    float: left;
+}
+
+.pdf {
+    margin-right: 20px;
+    width: 500px;
+    height: 200%;
+    position: relative;
+    float: left;
+    display: block;
+
+}
+
+.imagen {
+    float: right;
+    margin-right: 20px;
+    position: relative;
+    width: 50%;
+    height: min-content;
+    
+}
+
+.pdfImage {
+    
+    width: 10%;
+    margin-left: 300px;
+    height: min-content;
+}
+
+.caption {
+    
+    margin-left: 200px;
+    display: block;
+}
+
+.footer-img {
+    width: 60%;
+    height: 160px;
+    background: url('material/logosep.png');
+    background-size: cover;
+    display: block;
+    margin-top: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
